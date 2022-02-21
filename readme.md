@@ -13,3 +13,9 @@ This simple agent takes decisions based on:
 
 
 This runs on the browser via webassembly, that's compiled from Rust.
+
+# Run locally
+
+Install the Rust toolchain via [rustup]( https://rustup.rs/ ).
+
+Clone the repo and run `cargo run`.
