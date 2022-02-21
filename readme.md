@@ -1,7 +1,7 @@
 # What is this?
 This is an assignment for the Intelligent Systems class.
 
-LIVE DEMO: [gbrls.github.io/simple_agent/][https://gbrls.github.io/simple_agent/]
+LIVE DEMO: [gbrls.github.io/simple_agent/]( https://gbrls.github.io/simple_agent/ )
 
 # Implementation
 
